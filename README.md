@@ -25,6 +25,7 @@ Visualizations performed:
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
 - Naive Bayes
+- Support vector Classifier (RGF- Gaussian kernel)
 
 ## Evaluation Metrics
 
